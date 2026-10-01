@@ -4,11 +4,11 @@
   <img src="./assets/banner.svg" alt="Artemis Jay Bernabe — Software Architect, Agentic Intelligence Specialist" width="100%"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=FFCA34&center=true&vCenter=true&width=780&lines=Software+Architect+%E2%80%94+Agentic+Intelligence+Specialist;AI+Engineer+%E2%80%94+AI+Applications+%26+Algorithm+Specialist;API+%26+MCP+Engineer;From+SQL+dashboards+to+agentic+AI+operating+systems;Building+in+public+since+December+2021" alt="Software Architect · Agentic Intelligence Specialist · AI Engineer · API and MCP Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=F5F5F7&center=true&vCenter=true&width=780&lines=Software+Architect+%E2%80%94+Agentic+Intelligence+Specialist;AI+Engineer+%E2%80%94+AI+Applications+%26+Algorithm+Specialist;API+%26+MCP+Engineer;From+SQL+dashboards+to+agentic+AI+operating+systems;Building+in+public+since+December+2021" alt="Software Architect · Agentic Intelligence Specialist · AI Engineer · API and MCP Engineer"/>
 
-[![Interactive Overview](https://img.shields.io/badge/◉_INTERACTIVE_OVERVIEW-lois4801.github.io-ffca34?style=for-the-badge&labelColor=101010)](https://lois4801.github.io)
+[![Interactive Overview](https://img.shields.io/badge/◉_INTERACTIVE_OVERVIEW-lois4801.github.io-ff375f?style=for-the-badge&labelColor=000000)](https://lois4801.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fartemis--jay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemis-jay/)
-![Profile views](https://komarev.com/ghpvc/?username=lois4801&label=PROFILE+VIEWS&color=ffca34&style=for-the-badge&labelColor=101010)
+![Profile views](https://komarev.com/ghpvc/?username=lois4801&label=PROFILE+VIEWS&color=64d2ff&style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -17,15 +17,15 @@
 ### ◉ Live GitHub analytics
 
 <div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=lois4801&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=101010&title_color=ffca34&icon_color=ffca34&text_color=c9c9c9&ring_color=ffca34" alt="GitHub stats"/>
-  <img height="168" src="https://streak-stats.demolab.com?user=lois4801&hide_border=true&background=101010&ring=ffca34&fire=ff5872&currStreakLabel=ffca34&sideLabels=c9c9c9&currStreakNum=f2f2f2&sideNums=f2f2f2&dates=8a8a8a" alt="Contribution streak"/>
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois4801&layout=compact&hide_border=true&bg_color=101010&title_color=ffca34&text_color=c9c9c9" alt="Top languages"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=lois4801&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=f5f5f7&icon_color=ff375f&text_color=a1a1a6&ring_color=ff9f0a" alt="GitHub stats"/>
+  <img height="168" src="https://streak-stats.demolab.com?user=lois4801&hide_border=true&background=000000&ring=ff375f&fire=ff9f0a&currStreakLabel=64d2ff&sideLabels=a1a1a6&currStreakNum=f5f5f7&sideNums=f5f5f7&dates=6e6e73" alt="Contribution streak"/>
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois4801&layout=compact&hide_border=true&bg_color=000000&title_color=f5f5f7&text_color=a1a1a6" alt="Top languages"/>
 </div>
 
 ### ◉ Contribution field — live from GitHub
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/ffca34/lois4801" alt="Artemis Jay Bernabe's contribution chart"/>
+  <img width="100%" src="https://ghchart.rshah.org/ff375f/lois4801" alt="Artemis Jay Bernabe's contribution chart"/>
 </div>
 
 ---
