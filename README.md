@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lois4801&bg_color=101010&color=c9c9c9&line=ffca34&point=00d5e9&area=true&area_color=ffca34&hide_border=true" alt="Contribution activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lois4801&bg_color=101010&color=c9c9c9&line=ffca34&point=00d5e9&area=true&area_color=ffca34&hide_border=true&radius=16" alt="Contribution activity graph"/>
 </div>
 
 ---
@@ -81,7 +81,7 @@
 ### ◉ Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=lois4801&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=lois4801&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
 </div>
 
 ---
