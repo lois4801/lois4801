@@ -22,10 +22,12 @@
   <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois4801&layout=compact&hide_border=true&bg_color=000000&title_color=f5f5f7&text_color=a1a1a6" alt="Top languages"/>
 </div>
 
-### ◉ Contribution field — live from GitHub
+### ◉ Contribution field — rebuilt from the GitHub API
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/ff375f/lois4801" alt="Artemis Jay Bernabe's contribution chart"/>
+  <img width="100%" src="./assets/contribution-field.svg" alt="Multicolor contribution field rebuilt from Artemis Jay Bernabe's public GitHub activity"/>
+  <br/>
+  <sub>500 public events across the last 12 months · active days ignite by intensity · snapshot: October 1, 2026</sub>
 </div>
 
 ---
