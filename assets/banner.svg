@@ -85,7 +85,7 @@
     <g opacity="0"><text x="620" y="66" font-size="12" fill="#777777"><tspan fill="#ffca34" font-weight="700" font-size="15">100</tspan>  REPOSITORIES</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.8s" fill="freeze"/></g>
     <g opacity="0"><text x="620" y="92" font-size="12" fill="#777777"><tspan fill="#ffca34" font-weight="700" font-size="15">89</tspan>  PUBLIC PROJECTS</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.0s" fill="freeze"/></g>
     <g opacity="0"><text x="620" y="118" font-size="12" fill="#777777"><tspan fill="#ffca34" font-weight="700" font-size="15">479</tspan>  CONTRIBUTIONS / 12 MO</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/></g>
-    <g opacity="0"><text x="620" y="144" font-size="12" fill="#777777"><tspan fill="#ffca34" font-weight="700" font-size="15">14</tspan>  STARS EARNED</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.4s" fill="freeze"/></g>
+    <g opacity="0"><text x="620" y="144" font-size="12" fill="#777777"><tspan fill="#ffca34" font-weight="700" font-size="15">20</tspan>  STARS EARNED</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.4s" fill="freeze"/></g>
     <g opacity="0"><text x="620" y="170" font-size="12" fill="#777777"><tspan fill="#ffca34" font-weight="700" font-size="15">05</tspan>  YEARS SHIPPING</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.6s" fill="freeze"/></g>
   </g>
 
