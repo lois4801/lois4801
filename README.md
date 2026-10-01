@@ -4,7 +4,7 @@
   <img src="./assets/banner.svg" alt="Artemis Jay Bernabe — Software Architect, Agentic Intelligence Specialist" width="100%"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=FFCA34&center=true&vCenter=true&width=780&lines=Software+Architect+%E2%80%94+Agentic+Intelligence+Specialist;AI+Engineer+%E2%80%94+AI+Applications+%26+Algorithm+Specialist;From+SQL+dashboards+to+agentic+AI+operating+systems;Building+in+public+since+December+2021" alt="Software Architect · Agentic Intelligence Specialist · AI Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=FFCA34&center=true&vCenter=true&width=780&lines=Software+Architect+%E2%80%94+Agentic+Intelligence+Specialist;AI+Engineer+%E2%80%94+AI+Applications+%26+Algorithm+Specialist;API+%26+MCP+Engineer;From+SQL+dashboards+to+agentic+AI+operating+systems;Building+in+public+since+December+2021" alt="Software Architect · Agentic Intelligence Specialist · AI Engineer · API and MCP Engineer"/>
 
 [![Interactive Overview](https://img.shields.io/badge/◉_INTERACTIVE_OVERVIEW-lois4801.github.io-ffca34?style=for-the-badge&labelColor=101010)](https://lois4801.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fartemis--jay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemis-jay/)
@@ -22,8 +22,10 @@
   <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lois4801&layout=compact&hide_border=true&bg_color=101010&title_color=ffca34&text_color=c9c9c9" alt="Top languages"/>
 </div>
 
+### ◉ Contribution field — live from GitHub
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lois4801&bg_color=101010&color=c9c9c9&line=ffca34&point=00d5e9&area=true&area_color=ffca34&hide_border=true&radius=16" alt="Contribution activity graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/ffca34/lois4801" alt="Artemis Jay Bernabe's contribution chart"/>
 </div>
 
 ---
@@ -74,14 +76,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,supabase,postgres,mysql,sqlite,docker,git,github,vercel,linux,bash&theme=dark" alt="Python, JavaScript, TypeScript, React, Node, Supabase, Postgres, MySQL, SQLite, Docker, Git, GitHub, Vercel, Linux, Bash"/>
-</div>
-
----
-
-### ◉ Achievements
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=lois4801&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
 </div>
 
 ---
